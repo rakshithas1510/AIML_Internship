@@ -1,0 +1,2 @@
+Survival higher for: female (rate=0.74)
+Higher survival in Pclass: 1 (rate=0.63)
